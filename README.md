@@ -23,4 +23,6 @@ Fei目前正在刷题，按照Tag过一遍leetcode的算法题。
 
 - [x] Tree  
 - [x] Linked List  
-- [ ] Sort
+- [x] Sort  
+- [x] Queue  
+- [] DP
