@@ -8,14 +8,13 @@ Learning from [yuzhoujr](https://github.com/yuzhoujr/leetcode)
 </h1>
 
 <!---Mentra--->
-Fei目前正在刷题，按照Tag过一遍leetcode的算法题。  
+Felix目前正在刷题，按照Tag过一遍leetcode的算法题。  
 第一遍主要使用python，以理解算法的核心为主，从基本的数据结构到常见算法策略。  
 同时也会对Tag做专题总结。
 
 <!---svg--->
 <p align="center">
   <img src="https://img.shields.io/badge/language-Python-yellow.svg?style=flat-square">
-  <img src="https://img.shields.io/badge/summary-1%20%2F%20N-ff69b4.svg?style=flat-square">
   <img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square">
 </p>
 
